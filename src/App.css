@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'MyriadPro';
+  src: local('MyriadPro'), url('./fonts/MyriadPro-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'MyriadPro', sans-serif;
+}
